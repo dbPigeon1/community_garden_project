@@ -13,10 +13,8 @@ This project was created as a final project for my CIS-18A course. The purpose o
    https://github.com/dbPigeon1/community_garden_project.git
 2. Navigate to the project folder and ensure that the "jcalendar-1.4.jar" is in the same folder as the program will not compile without it.
 3. Open up the command prompt and navigate to the directory where the project's files are stored. ("cd \...")
-4. Compile the Java files with the following command:
-   javac -cp ".;jcalendar-1.4.jar" *.java
-5. Run the application with the following command:
-   java -cp ".;jcalendar-1.4.jar" CommunityGardenApp
+4. Compile the Java files with the following command:<br>javac -cp ".;jcalendar-1.4.jar" *.java
+5. Run the application with the following command:<br>java -cp ".;jcalendar-1.4.jar" CommunityGardenApp
 
 ## Usage
 Once the application is running, you can enter a name, email, and phone number to register for an appointment.
