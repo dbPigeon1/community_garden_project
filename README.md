@@ -10,6 +10,7 @@ This project was created as a final project for my CIS-18A course. The purpose o
 
 ## Installation
 1. Clone or download the repository:
+   https://github.com/dbPigeon1/community_garden_project.git
 2. Navigate to the project folder and ensure that the "jcalendar-1.4.jar" is in the same folder as the program will not compile without it.
 3. Open up the command prompt and navigate to the directory where the project's files are stored. ("cd \...")
 4. Compile the Java files with the following command:
